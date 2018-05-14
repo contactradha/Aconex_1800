@@ -1,0 +1,15 @@
+C:\RK\Labs\Aconex\Assignments\One800\One800\One800\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\RK\Labs\Aconex\Assignments\One800\One800\One800\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\RK\Labs\Aconex\Assignments\One800\One800\One800\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\RK\Labs\Aconex\Assignments\One800\One800\One800\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\RK\Labs\Aconex\Assignments\One800\One800\One800\bin\Debug\netcoreapp2.0\One800.dll.config
+C:\RK\Labs\Aconex\Assignments\One800\One800\One800\bin\Debug\netcoreapp2.0\One800.deps.json
+C:\RK\Labs\Aconex\Assignments\One800\One800\One800\bin\Debug\netcoreapp2.0\One800.runtimeconfig.json
+C:\RK\Labs\Aconex\Assignments\One800\One800\One800\bin\Debug\netcoreapp2.0\One800.runtimeconfig.dev.json
+C:\RK\Labs\Aconex\Assignments\One800\One800\One800\bin\Debug\netcoreapp2.0\One800.dll
+C:\RK\Labs\Aconex\Assignments\One800\One800\One800\bin\Debug\netcoreapp2.0\One800.pdb
+C:\RK\Labs\Aconex\Assignments\One800\One800\One800\obj\Debug\netcoreapp2.0\One800.csproj.CoreCompileInputs.cache
+C:\RK\Labs\Aconex\Assignments\One800\One800\One800\obj\Debug\netcoreapp2.0\One800.AssemblyInfoInputs.cache
+C:\RK\Labs\Aconex\Assignments\One800\One800\One800\obj\Debug\netcoreapp2.0\One800.AssemblyInfo.cs
+C:\RK\Labs\Aconex\Assignments\One800\One800\One800\obj\Debug\netcoreapp2.0\One800.dll
+C:\RK\Labs\Aconex\Assignments\One800\One800\One800\obj\Debug\netcoreapp2.0\One800.pdb
